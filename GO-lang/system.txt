@@ -1,0 +1,4 @@
+Here is an sample how to create valid X.509
+Public and Private Key (cert/key).
+When not using self signed the 4.2.1
+segault. You need the CVS code at least for openssl.
